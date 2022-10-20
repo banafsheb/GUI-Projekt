@@ -1,6 +1,3 @@
-# AI-Student-Project
-
-Task One:
 The folder activations contains multiple numpy array files. 
 These represent activations of units of a neural network layer over some feature (in this case 2D space)
 
